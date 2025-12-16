@@ -27,4 +27,4 @@ Grant microphone permission when prompted. Then choose your input device and cli
 
 ## Notes
 - Audio is not connected to the output, so nothing is played through speakers.
-- If you change input devices while running, the app will switch after a brief restart. # audiom
+- If you change input devices while running, the app will switch after a brief restart. 
